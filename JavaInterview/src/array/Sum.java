@@ -9,6 +9,8 @@ public class Sum {
         int b = 22;
         Sum.SUm(a, b);
         Sum.SUbstract(a,b);
+
+        System.out.println("Hi Amit");
     }
 
     public static void SUm(int a, int b){
